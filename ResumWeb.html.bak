@@ -1,0 +1,239 @@
+<html>
+<head>
+<title> Shantanu Gawande </title>
+</head>
+<body>
+
+<!---header--->
+
+<table border="0" width="100%" cellspacing="0" bgcolor="#673de6">
+<tr><td>
+<table border="0" width="85%" align="center" cellpadding="15px" >
+<tr>
+<td> <font face="Open Sans" size="5" color="black"> <b> Shantanu Gawande </b></font></td>
+
+<td width="20%"></td>
+<td> <a href="#"> <font color="#fff">Home </font> </a></td>
+<td> <a href="#"><font color="#fff">Services </font></a></td>
+<td> <a href="#"><font color="#fff">Skills </font></a></td>
+<td> <a href="#"><font color="#fff">Team </font> </a></td>
+<td> <a href="#"><font color="#fff">Contact Us </font> </a></td>
+</tr>
+</table>
+</td></tr>
+</table>
+
+<!---End header--->
+
+<!---Home---->
+<table>
+<tr><td>
+<table width="85%" border="0" align="center" cellpadding="10px">
+<tr>
+<td> 
+	<h1> <font face="Open Sans" size="7"> Hi, </font></h1>
+	<h1> <font face="Open Sans" size="6"> I'm Awesome </font></h1>
+	<font size="3">I am an fresher, Web Developer by Profession & YouTuber by Passion. I have been educating Web Development, Full stack developer and Languages to students since 2022.</font>
+
+<hr>
+
+<a href="ResumeNew.pdf"><button> Download CV </button> </a> 
+<a href="https://wa.link/nbupwv"><button> Hire Me</button> </a>
+
+</td>
+
+<td>
+	<img src="cv.png" height="600px">
+</td>
+
+</tr>
+</table>
+</td></tr>
+</table>
+<!---End Home---->
+
+<!--- Services--->
+
+<table width="100%" bgcolor="#fafbff">
+<tr><td>
+<br><br><br><br>
+<table width="85%" border="0" align="center" cellpadding="15px">
+<tr align="center" >
+<td colspan="3"> 
+	<font size="6" face="Open sans"> Services </font> <br>
+	<hr align="center" width="10%">
+	<font size="3" face="Open sans"> These are our Services </font> <br>
+  </td>
+</tr>
+<tr align="center">
+<td>
+	<img src="web.png" width="20%"> <br><br>
+	<font size="5"> Web Development </font> <br>
+	<font size="3"> A Web Developer with specializing in HTML5, JavaScript, PHP, MySQL, database design, and front-end development.</font>
+</td>
+<td>
+	<img src="back.png" width="20%"> <br><br>
+	<font size="5"> Backend Developer </font> <br>
+	<font size="3"> Design and develop scalable and efficient backend systems using Java technologies. </font>
+</td>
+<td>
+	<img src="full.png" width="20%"> <br><br>
+	<font size="5"> Full Stack Development </font> <br>
+	<font size="3"> Design, develop, and maintain web applications using Java, Spring, and Hibernate. </font>
+</td>
+
+</tr>
+</table>
+<br><br><br><br>
+</td></tr>
+<table>
+
+<!--- End Services--->
+<!--- Skills--->
+
+<table width="100%" bgcolor="#25282f">
+
+<tr>
+<td> <br>
+	<table border="0" width="85%" align="center" cellpadding="10px">
+	<tr align="center"> <td colspan="3"> <font face="Open Sans" size="6" color="#fff"> Skills </font>   
+	<hr align="center" width="7%">	 </td></tr>
+	<td><th><label> <font size="3" color="#fff"> Frontend Languages </font></label></td>
+	<tr>
+	<td> <label> <font size="5" color="#fff"> HTML5 </font></label> <br><progress value="95" max="100">95% </progress> </td>
+	<td> <label> <font size="5" color="#fff"> CSS3 </font></label> <br><progress value="85" max="100">85% </progress> </td>
+	<td> <label> <font size="5" color="#fff"> BootStrap </font></label> <br><progress value="85" max="100">85% </progress> </td>
+	</tr>
+	<td><th><label> <font size="3" color="#fff"> Backend Languages </font></label></td>
+	<tr>
+	<td> <label> <font size="5" color="#fff"> Java </font></label> <br><progress value="65" max="100">65% </progress></td>
+	<td> <label> <font size="5" color="#fff"> MySQL </font></label> <br><progress value="50" max="100">50% </progress></td>
+	<td> <label> <font size="5" color="#fff"> JavaScript </font></label> <br><progress value="85" max="100">75% </progress> </td>
+	</tr>
+	</table>
+<br><br><br><br>
+
+</td>
+</tr>
+</table>
+
+<!--- End Skills--->
+
+<!--- Team--->
+<table width="100%">
+<tr><td>
+<br><br><br><br>
+<table border="0" width="70%" align="center" cellpadding="20">
+<tr align="center"> <td colspan="4"> <font face="Open Sans" size="6"> Education</font></td>
+</tr>
+<tr>
+<th> <font size="4">  College/School  </th>
+<th> <font size="4"> Courses  </th>
+<th> <font size="4"> Passout Year  </th>
+<th> <font size="4"> Percentage  </th>
+</tr>
+<tr> 
+<td> <img src="secondary.png" width="5%"> <br> <font size="5"> Secondary School (10th)</font><br><br>
+    <font size="4"> Keshav Nagar High School <br> Nandanvan, Nagpur </font>
+	<td>SCIENCE</td>
+	<td>Passout Year-2015</td>
+<td>    <font size="4"> 68% <progress value="65" max="100"></progress> </font> </td>
+</tr>
+
+<tr> 
+<td> <img src="higher.png" width="5%"> <br> <font size="5"> Higher Secondary School (12th)</font><br><br>
+    <font size="4"> Keshav Nagar High & junior College <br> Nandanvan, Nagpur </font>
+	<td>COMPUTER SCIENCE</td>
+	<td>Passout Year-2017</td>
+<td>    <font size="4"> 52% <progress value="52" max="100"></progress> </font> </td>
+</tr>
+
+<<tr> 
+<td> <img src="gradution.png" width="5%"> <br> <font size="5"> Graduation</font><br><br>
+    <font size="4"> vmv commerce jmt arts & jjp science college <br>Wardhaman Nagar, Nagpur </font>
+	<td>BACHELOR OF COMPUTER APPLICATION (B.C.A.)</td>
+	<td>Passout Year-2022</td>
+<td>    <font size="4"> 72% <progress value="72" max="100"></progress> </font> </td>
+</tr>
+</table> <br><br><br><br>
+
+</td></tr>
+</table>
+
+<!--- End Team--->
+
+<!--- Contact--->
+<form>
+<table width="100%" bgcolor="#673de6">
+<tr><td>
+<br><br><br><br>
+<table border="0" width="30%" align="center" cellpadding="15">
+<tr align="center">
+<td colspan="2"> <font color="" size="6"> Contact Us </font> <br> <hr align="center" width="10%"> </td>
+</tr>
+<tr>
+<td> <font size="3" color="#fff">Name: </font> </td>
+<td> <input type="text"> </td>
+</tr>
+
+<tr>
+<td> <font size="3" color="#fff">Mobile: </font> </td>
+<td> <input type="number"> </td>
+</tr>
+
+<tr>
+<td> <font size="3" color="#fff">Message: </font> </td>
+<td> <textarea cols="20" rows="4"> </textarea> </td>
+</tr>
+
+<tr align="center">
+<td colspan="2"> <input type="submit">  </td>
+</tr>
+</table><br><br><br><br>
+
+</td></tr>
+</table>
+</form>
+
+<!--- End Contact--->
+
+<!--- Footer--->
+
+<table width="100%">
+<tr><td>
+
+<table border="0" width="85%" align="center" cellpadding="15">
+<tr align="center">
+<td>
+<img src="phone.png" width="10%"> <br>
+<font size="6" >Phone No</font> <br>
+<a href="+91 9860689980"<font size="5" color="#fff">+91 9860689980</font></a>
+</td>
+
+<td>
+<img src="gmail.png" width="10%"> <br>
+<font size="6" >Email us</font> <br>
+<a href="shantanugawande1999@gmail" <font size="5" color="#fff">shantanugawande1999@gmail.com</font></a>
+
+</td>
+
+<td>
+<img src="placeholder.png" width="10%"> <br>
+<font size="6" >Location</font> <br>
+<font size="5" >Nagpur</font>
+
+</td>
+</tr>
+
+<tr bgcolor="black" align="center"> 
+<td colspan="3"> <font color="#fff"> copyright @ 2023 | Shantanu Gawande</font></td>
+</tr>
+</table>
+
+</td></tr>
+</table>
+
+<!--- End Footer--->
+
+</body>
+</html>
